@@ -20,7 +20,8 @@
     "**/*.ts",
     "**/*.tsx",
     "next.config.js",
-    "next.config.js"
+    "next.config.js",
+    "pages/api/staticdata.ts"
   ],
   "exclude": ["node_modules"]
 }

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "id": "1",
+    "url": "/images/beyond-earth/large.jpg",
+    "title": "Beyond Earth",
+    "description": "A picture of the Beyond Earth",
+    "year": "2015",
+    "rating": "5",
+    "type": "image",
+    "variants": [
+      {
+        "url": "/images/beyond-earth/small.jpg"
+      },
+      {
+        "url": "/images/beyond-earth/medium.jpg"
+      }
+    ]
+  }
+}

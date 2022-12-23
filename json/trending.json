@@ -1,0 +1,19 @@
+{
+  "data": {
+    "id": "1",
+    "url": "/images/bottom-gear/large.jpg",
+    "title": "Bottom Gear",
+    "description": "A picture of the bottom gear",
+    "year": "2015",
+    "rating": "5",
+    "type": "image",
+    "variants": [
+      {
+        "url": "/images/bottom-gear/small.jpg"
+      },
+      {
+        "url": "/images/bottom-gear/medium.jpg"
+      }
+    ]
+  }
+}
